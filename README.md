@@ -1,4 +1,4 @@
-# Repositório do Desafio de Git/GitHub da Dio
-_Desafio do Projeto de Git/GitHub_
+# Desafio de Git/GitHub da Dio
+_Repositório do Desafio do Projeto de Git/GitHub_
 
 [Makdown Basics](https://www.markdownguide.org/basic-syntax/)
